@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+// Yunus Emre Ay / E-posta:TR.yunus.emre.ay@gmail.com
+
 int main()
 {
     int x,a,b,mod_sonucu,z=0;
