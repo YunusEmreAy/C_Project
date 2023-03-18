@@ -1,1 +1,1 @@
-# Program detayları kodun içersiinde bulunmaktadır.
+# Program detayları kodun içerisinde bulunmaktadır.
