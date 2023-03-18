@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Yunus Emre Ay
+// Yunus Emre Ay / E-posta:TR.yunus.emre.ay@gmail.com
 
 int adet,ID=101;
 
