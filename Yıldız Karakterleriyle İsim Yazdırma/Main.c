@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Yunus Emre Ay / E-posta:TR.yunus.emre.ay@gmail.com
+
 int i=0,a,Boyut,altcizgi,cizgisatiri;
 
 char HARF(char y)
