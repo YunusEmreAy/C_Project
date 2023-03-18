@@ -11,9 +11,9 @@
 	- Sistemden istenildiği zaman ilgili tuşa basılıp çıkış yapılabilecektir.
 - Borç bilgisi hesaplama;
 	- Kullanıcı araba seçimini aşağıdaki verileri göz önünde bulundurarak yapacaktır.
-		- "Toyota" -> günlük kiralama bedeli = 150
-		- "BMW" -> günlük kiralama bedeli = 250
-		- "Mercedes" -> günlük kiralama bedeli = 400
+		- "Toyota" --> günlük kiralama bedeli = 150
+		- "BMW" --> günlük kiralama bedeli = 250
+		- "Mercedes" --> günlük kiralama bedeli = 400
 	- Kullanıcının aşağıda belirtilen özel durumları varsa, özel durumuna göre mevcut borca indirim yapılacaktır.
-		- Şehit yakını -> %10
-		- Gazi -> %20
+		- Şehit yakını --> %10
+		- Gazi --> %20
