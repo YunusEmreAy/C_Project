@@ -771,13 +771,6 @@ int main()
 
     }
 
-    printf("--> Umarim Yazdigim Programi Begenmissindir, Ben yazarken Cok Keyif Aldim. :) \n");
-    printf("--> <3 <3 <3 <3 <3\n\n");
-    printf("--> Allahim insallah 12 Puan Uzerinden 15 Puan Alirim.\n");
-    printf("--> Amin Amin Amin Amin Amin. \n\n");
-    printf("--------------------------------------------------------------------------------\n\n");
-    printf("Yunus Emre Ay / 21100011016 / Tel: 05516524768 / E-posta: TR.yunus.emre.ay@gmail.com\n\n\n\n\n");
-
-
+    
     return 0;
 }
